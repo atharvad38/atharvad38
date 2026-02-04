@@ -26,6 +26,16 @@
 
 ---
 
+## Selected Work & Projects
+
+- **AAROHI** – Designed an AI-based healthcare robot to reduce hospital workload through autonomous navigation, remote access, and intelligent patient interaction.
+- **SAVANA** – Built a platform to detect deepfake images/videos and AI-generated content in research papers and blogs using computer vision and NLP models.
+- **Craft AI** – Developed a multi-agent AI coding assistant that converts natural language requirements into complete, structured software projects.
+- **Market Oracle** – Created an AI-driven investment assistant that recommends mutual funds, provides stock insights, and answers personalized financial queries.
+- **videorag** – Built an open-source Python library for semantic retrieval of relevant transcript chunks from YouTube videos using vector search.
+
+---
+
 ## Technical Skills
 
 | Category | Tools & Technologies |
@@ -56,7 +66,7 @@
 
 - Patent published for **AI-based healthcare robot (AAROHI)**
 - Patent published for **IoT-based indoor room mapping system**
-- Creator of **videorag**, an open-source Python library for semantic retrieval of YouTube video transcripts
+- Creator of **videorag**, an open-source Python library for semantic video transcript retrieval
 - Winner – **SIH 2023 Internal Hackathon**
 - **Adobe Hackathon Semi-Finalist**
 
