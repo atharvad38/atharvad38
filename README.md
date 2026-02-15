@@ -2,85 +2,85 @@
 
 # Atharva Deshmukh
 
-### AI Engineer | Learner | Stock Market Enthusiast
+### AI Engineer • Applied AI Systems • RAG & Multi-Agent Architectures
 
 </div>
 
 ---
 
-## Professional Summary
+## About
 
-> *Designing and deploying production-grade AI systems while continuously learning across artificial intelligence, software engineering, and financial markets.*
+AI Engineer focused on building **production-grade intelligent systems**.
 
-- Hands-on experience building **AI systems used in production**
-- Strong interest in **applied AI, system design, and intelligent automation**
-- Strong focus on **RAG architectures**, **multi-agent systems**, and **AI infrastructure**
+Currently working on enterprise AI tools for large-scale data migration, retrieval systems, and multi-agent orchestration. Strong interest in system design, applied machine learning, and AI infrastructure.
 
 ---
 
-## Professional Experience
+## Experience
 
-| Role | Organization | Duration | Key Contributions |
-|---|---|---|---|
-| **AI Intern** | **Siemens DISW, Pune** | Jun 2025 – Present | Developed AI tools for Legacy and TC–TC Teamcenter data migration, built and deployed a production AI chatbot using GPT-4o integrated with Azure Cosmos DB and Blob Storage, led Phase-2 enhancements across four migration projects, implemented retrieval-based AI pipelines using Azure AI Search, and migrated systems to a LangGraph-based multi-agent architecture |
+**AI Intern**  
+**Siemens DISW, Pune**  
+Jun 2025 – Present  
 
----
-
-## Selected Work & Projects
-
-- **AAROHI** – Designed an AI-based healthcare robot to reduce hospital workload through autonomous navigation, remote access, and intelligent patient interaction.
-- **SAVANA** – Built a platform to detect deepfake images/videos and AI-generated content in research papers and blogs using computer vision and NLP models.
-- **Craft AI** – Developed a multi-agent AI coding assistant that converts natural language requirements into complete, structured software projects.
-- **Market Oracle** – Created an AI-driven investment assistant that recommends mutual funds, provides stock insights, and answers personalized financial queries.
-- **videorag** – Built an open-source Python library for semantic retrieval of relevant transcript chunks from YouTube videos using vector search.
+Working on enterprise AI systems for Teamcenter data migration and retrieval pipelines.
 
 ---
 
-## Technical Skills
+## Selected Projects
 
-| Category | Tools & Technologies |
-|---|---|
-| **Programming & CS** | Python, C, Java (Basics), Data Structures & Algorithms, OOP, DBMS |
-| **Machine Learning** | Scikit-Learn, Random Forest, Model Validation |
-| **Deep Learning** | PyTorch, TensorFlow, Keras, CNN, LSTM, ANN, GANs |
-| **Computer Vision** | OpenCV, YOLO, Object Detection |
-| **NLP** | Transformers, BERT, Encoder-Decoder |
-| **Backend** | Flask, Streamlit, REST APIs |
-| **Databases** | SQLite, MongoDB, Cosmos DB |
-| **Cloud & Infra** | Azure AI Search, Azure Blob Storage, Azure Function Apps |
-| **Developer Tools** | Git, Postman |
+**AAROHI**  
+AI-powered healthcare robot for autonomous hospital assistance and intelligent patient interaction.
+
+**SAVANA**  
+Deepfake and AI-generated content detection system using computer vision and NLP models.
+
+**Craft AI**  
+Multi-agent AI coding assistant that converts natural language requirements into structured software systems.
+
+**Market Oracle**  
+AI-driven investment intelligence assistant for personalized financial insights.
+
+**videorag**  
+Open-source Python library for semantic retrieval of relevant transcript chunks from YouTube videos using vector search.
 
 ---
 
-## Education
+## Technical Stack
 
-| Degree | Institute | Duration | Performance |
-|---|---|---|---|
-| **B.Tech – Artificial Intelligence & Data Science** | Vishwakarma Institute of Technology, Pune | 2022 – 2026 | **CGPA: 9.09** |
-| HSC (Class XII) | Armed Forces Preparatory Institute, Kolhapur | 2020 – 2022 | **94%** |
-| SSC (Class X) | St. Arnolds Central School, Pune | 2020 | **95%** |
+**Languages**  
+Python, C  
+
+**AI / ML**  
+PyTorch, TensorFlow, Transformers, Scikit-Learn  
+
+**RAG & Retrieval**  
+Vector Search, FAISS, Azure AI Search  
+
+**Multi-Agent Systems**  
+LangGraph, Tool-Calling Architectures  
+
+**Backend & Infra**  
+Flask, REST APIs, Azure Blob Storage, Cosmos DB  
+
+**Databases**  
+MongoDB, SQLite  
+
+**Developer Tools**  
+Git, Postman  
 
 ---
 
 ## Achievements
 
-- Patent published for **AI-based healthcare robot (AAROHI)**
-- Patent published for **IoT-based indoor room mapping system**
-- Creator of **videorag**, an open-source Python library for semantic video transcript retrieval
-- Winner – **SIH 2023 Internal Hackathon**
-- **Adobe Hackathon Semi-Finalist**
-
----
-
-## Contact
-
-- 📧 **Email:** atharvad38@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/atharvad38  
+Patent published – AI-based Healthcare Robot  
+Patent published – IoT-based Indoor Mapping System  
+Winner – SIH 2023 Internal Hackathon  
+Adobe Hackathon Semi-Finalist  
 
 ---
 
 <div align="center">
 
-*Curious by nature. Building with intent.*
+Building intelligent systems with clarity and intent.
 
 </div>
