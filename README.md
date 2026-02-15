@@ -2,7 +2,7 @@
 
 # Atharva Deshmukh
 
-### AI Engineer • Applied AI Systems • RAG & Multi-Agent Architectures
+### Agentic AI Systems • Multi-Agent Architectures • Retrieval-Augmented Generation
 
 </div>
 
@@ -10,9 +10,15 @@
 
 ## About
 
-AI Engineer focused on building **production-grade intelligent systems**.
+AI Engineer focused on designing and building **agentic AI systems**.
 
-Currently working on enterprise AI tools for large-scale data migration, retrieval systems, and multi-agent orchestration. Strong interest in system design, applied machine learning, and AI infrastructure.
+Currently working on multi-agent orchestration, retrieval-augmented generation (RAG), structured reasoning pipelines, and production-grade AI infrastructure.
+
+Interested in the intersection of:
+- Autonomous agents
+- Retrieval systems
+- Knowledge-augmented generation
+- AI system architecture
 
 ---
 
@@ -22,42 +28,50 @@ Currently working on enterprise AI tools for large-scale data migration, retriev
 **Siemens DISW, Pune**  
 Jun 2025 – Present  
 
-Working on enterprise AI systems for Teamcenter data migration and retrieval pipelines.
+Designing and deploying AI systems with increasing focus on agentic workflows, multi-agent orchestration, and retrieval pipelines.
+
+---
+
+## Core Focus Areas
+
+- Agentic AI system design  
+- Multi-agent orchestration (LangGraph-based workflows)  
+- Retrieval-Augmented Generation (RAG)  
+- Hybrid retrieval (vector + structured data)  
+- Tool-calling architectures  
+- Production AI deployment  
 
 ---
 
 ## Selected Projects
 
-**AAROHI**  
-AI-powered healthcare robot for autonomous hospital assistance and intelligent patient interaction.
-
-**SAVANA**  
-Deepfake and AI-generated content detection system using computer vision and NLP models.
-
 **Craft AI**  
-Multi-agent AI coding assistant that converts natural language requirements into structured software systems.
-
-**Market Oracle**  
-AI-driven investment intelligence assistant for personalized financial insights.
+Multi-agent AI coding system converting natural language requirements into structured software architectures.
 
 **videorag**  
-Open-source Python library for semantic retrieval of relevant transcript chunks from YouTube videos using vector search.
+Open-source Python library for semantic retrieval of transcript chunks from YouTube videos using vector search.
+
+**SAVANA**  
+Deepfake and AI-generated content detection using computer vision and NLP.
+
+**AAROHI**  
+AI-powered healthcare robotics system for hospital automation.
 
 ---
 
 ## Technical Stack
 
 **Languages**  
-Python, C  
+Python  
 
-**AI / ML**  
-PyTorch, TensorFlow, Transformers, Scikit-Learn  
+**LLMs & NLP**  
+Transformers, Tool-Calling LLMs  
 
 **RAG & Retrieval**  
-Vector Search, FAISS, Azure AI Search  
+FAISS, Azure AI Search, Vector Search  
 
 **Multi-Agent Systems**  
-LangGraph, Tool-Calling Architectures  
+LangGraph, Agent Orchestration Patterns  
 
 **Backend & Infra**  
 Flask, REST APIs, Azure Blob Storage, Cosmos DB  
@@ -66,7 +80,7 @@ Flask, REST APIs, Azure Blob Storage, Cosmos DB
 MongoDB, SQLite  
 
 **Developer Tools**  
-Git, Postman  
+Git  
 
 ---
 
@@ -81,6 +95,6 @@ Adobe Hackathon Semi-Finalist
 
 <div align="center">
 
-Building intelligent systems with clarity and intent.
+Designing intelligent systems that reason, retrieve, and act.
 
 </div>
